@@ -1,5 +1,5 @@
 
-# Forkify: Recipes Search
+# Food App: React.js food ordering demo app
 
 React - Food App is a React.Js application that simulates online food ordering. It is still in development.
 
